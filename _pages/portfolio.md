@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /portfolio/
-type: single
+type: default
 ---
 
 ## Här kommer några beskrivningar och bilder på några av mina CAD-projekt 

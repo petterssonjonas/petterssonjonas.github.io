@@ -2,7 +2,7 @@
 layout: home
 permalink: /about/
 #type: default
-type: single
+type: home
 ---
 
 ## Här kommer information om mig

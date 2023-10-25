@@ -110,9 +110,9 @@ author:
   location         : "Bromma, Stockholm"
   email            : "jpettersson@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jpettersson@gmail.com"
+#    - label: "E-mail"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:jpettersson@gmail.com"
     - label: "Linux blog"
       icon: "fas fa-fw fa-link"
       url: "https://fuzebox.gitlab.io"

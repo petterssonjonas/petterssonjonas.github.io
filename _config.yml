@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : jonaspettersson
 facebook:
   username               :
   app_id                 :
@@ -105,51 +105,51 @@ analytics:
 # Site Author
 author:
   name             : "Jonas Pettersson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "Studerar CAD-konstruction vid ECutbildning"
+  location         : "Bromma, Stockholm"
   email            : "jpettersson@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:jpettersson@gmail.com"
+    - label: "Linux blog"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://fuzebox.gitlab.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/jonaspettersson"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/petterssonjonas"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/f3rm1on"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/jonaspettersson"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/petterssonjonas"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://gitlab.com/fuzebox"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/f3rm1on"
 
 
 # Reading Files

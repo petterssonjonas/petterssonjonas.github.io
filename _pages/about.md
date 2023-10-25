@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: home
 permalink: /about/
 #type: default
-type: home
+type: single
 ---
-# About
+
 ## Här kommer information om mig

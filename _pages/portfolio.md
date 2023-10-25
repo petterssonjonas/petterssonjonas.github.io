@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /portfolio/
+type: default
 ---
 # Portfölj
 

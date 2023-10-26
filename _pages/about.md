@@ -2,9 +2,8 @@
 layout: single
 permalink: /about/
 author_profile: true
-type: default
+type: home
+title: Jag är...
 ---
 
-
-
-### Jag är...
+123

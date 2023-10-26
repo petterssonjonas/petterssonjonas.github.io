@@ -1,8 +1,10 @@
 ---
-layout: home
+layout: single
 permalink: /about/
-#type: default
-type: home
+author_profile: true
+type: default
 ---
 
-## Här kommer information om mig
+
+
+### Jag är...
